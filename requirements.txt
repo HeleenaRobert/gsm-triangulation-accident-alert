@@ -1,0 +1,13 @@
+# Hardware Requirements:
+- Arduino Uno (or compatible board)
+- GSM Module (SIM800L or SIM900)
+- Buzzer (Piezo or similar)
+- LEDs (Red, Yellow, Green) for Triangular Signal
+- Resistors (220Ω for LEDs)
+- Power Supply (9V battery or adapter)
+- Breadboard & Jumper Wires
+
+# Software Requirements:
+- Arduino IDE (v2.0 or later recommended)
+- GSM Library (TinyGSM or SIM800-based)
+- Standard Arduino Libraries (Wire, SPI, LiquidCrystal_I2c, SoftwareSerial, etc.)
